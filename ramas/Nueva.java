@@ -10,5 +10,9 @@ package ramas;
  * @author jose
  */
 public class Nueva {
+        
+    public void prueba(){
     
+    System.out.println("hello");
+    }
 }
